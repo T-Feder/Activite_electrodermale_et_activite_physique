@@ -8,4 +8,4 @@ __Travaux d’Etude et de Recherche (TER)__
 
 Empatica est le nom de la montre et du logiciel utilisés pour prélever les données physiologiques sur les participants.
 
-Ce répertoire contient le rapport final en PDF ainsi que les principaux programmes Python (fichiers .ipynb) développés pour traiter les données obtenues.
+Ce répertoire contient le rapport final en PDF ainsi que les principaux programmes Python (fichiers .ipynb) développés pour traiter les données obtenues car ceux-ci ne se trouvent pas dans le rapport.
